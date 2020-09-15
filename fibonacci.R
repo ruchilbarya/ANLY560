@@ -1,6 +1,6 @@
 ## fibonacci sequence
 
-len <- 10
+len <- 12
 fibvals <- numeric(len)
 fibvals[1] <- 1
 fibvals[2] <- 1
